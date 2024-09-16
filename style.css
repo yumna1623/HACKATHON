@@ -180,6 +180,7 @@ opacity: 0px;
 background-color: #191A23;
 margin-top: 200px;
 color: white!important;
+margin: 40px;
 }
 #navbarNav{
     color: white!important;
@@ -191,4 +192,20 @@ color: white!important;
 #b1:hover{
     background-color: #B9FF66;
     color: black;
+}
+.block
+{
+    display: block;
+}
+.infof{
+    color: white;padding: 100px;
+    gap: 10px;
+}
+#fb{
+    background-color: #B9FF66;
+
+    color: #191A23;
+}
+.end{
+    margin-left: 100px;
 }
