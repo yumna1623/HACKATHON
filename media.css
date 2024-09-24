@@ -19,7 +19,6 @@
     }
     .main1 p{
         font-size: 14px;
-        /* line-height: -6; */
         margin-left: -10px;
         width: 50%;
     }
@@ -31,6 +30,18 @@
     .main4 img{
         width: 150%;
     }
-
-
+}
+@media (max-width: 768px) {
+    .footer-container {
+        flex-direction: column;
+        text-align: center;
+    }
+    .footer-contact {
+        flex-direction: column;
+        gap: 20px;
+    }
+    .footer-bottom {
+        flex-direction: column;
+        gap: 10px;
+    }
 }
