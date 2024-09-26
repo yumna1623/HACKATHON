@@ -105,7 +105,51 @@
         text-align: center;
         margin-top: 10px;
     }
-    
+    .main6{
+        width: Hug (432px)px;
+        height: Hug (712px)px;
+        top: 2191px;
+        left: -1px;
+        gap: 20px;
+        opacity: 0px;
+    }
+    .div1 p{ 
+        display: none;
+    }
+    .div1 h4 h1{
+        padding-top: 10px;
+        font-weight: 500;
+
+    }
+    .div1{
+        width: 400px;
+        height: Hug (98px)px;
+        padding: 10px 20px 0px 20px;
+        gap: 10px;
+        margin-left: 18px;
+        background-color: #F3F3F3;
+    }
+    .div2{
+        width: 400px;       
+        height: Hug (98px)px;
+        padding: 0px 20px 0px 20px;
+        gap: 10px;
+        margin-left: 18px;
+        text-align: start;
+    }
+    .div2 h1{
+        margin-top: 20px;
+    }
+    .div2 h4{
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 17.97px;
+    text-align: left;
+    width: 3000px;
+    height: 50px;
+    margin-top: 30px;
+    display: inline-flex;
+    }
 
 
 
