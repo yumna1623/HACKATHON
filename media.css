@@ -48,6 +48,23 @@
         align-items: start;
         justify-content: center;
     }
+    .main3{
+        width: Hug (430px)px;
+        height: Hug (148px)px;
+        top: 900px;
+        padding: 0px 20px 0px 20px;
+        display: flex;
+        flex-direction: column;
+        gap: 2px;
+    }
+    .main3 p {
+        margin-top: 20px;
+    }
+    .services{
+        width: 150px;
+        height: Hug (46px)px;
+        margin-left: 50px;
+    }
 }
 @media (max-width: 768px) {
     .footer-container {
