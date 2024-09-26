@@ -5,7 +5,7 @@
     .logo2{
         margin-left: 2px;
     }
-    #b1{
+    #r1{
         display: none;
     }
     .main1{
@@ -150,7 +150,41 @@
     margin-top: 30px;
     display: inline-flex;
     }
+    .main7{
+        width: 390px;
+        height: Hug (540px)px;
+        top: 3115px;
+        margin-left: 20px;
+        padding: 40px 0px 40px 0px;
+        gap: 36px;
+        border-radius: 45px;
 
+    }
+    .input2{
+        width: 280px;
+        height: Hug (60px)px;
+        padding: 18px 20px 18px 20px;
+        gap: 10px;
+        border-radius: 14px;
+        border: 1px 0px 0px 0px;
+    }
+    textarea{
+        width: 300px;
+
+    }
+    .main7 button{
+        width: 300px;
+        height: Hug (68px)px;
+        top: 3685px;
+        left: 20px;
+        padding: 15px 35px 40px 35px;
+        gap: 10px;
+        border-radius: 14px;
+
+    }
+    .formimg{
+        display: none;
+    }
 
 
 
