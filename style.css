@@ -201,6 +201,9 @@ opacity: 0px;
     text-align: left;
 
 }
+.proposal{
+    display: none;
+}
 
 /*  */
 .main4 {
