@@ -35,9 +35,18 @@
         margin-left: -30px;
         margin-top: -240px;
     }
-    
+    .comp{
+        width:280px;
+        margin-left:-5px;
+        overflow-x:hidden;
+    }
+    .comp:hover{
+        transform: scale(1.1);
+    }
     .companies{
-        margin-top: 600px;
+        margin-top: 260px;
+        align-items: start;
+        justify-content: center;
     }
 }
 @media (max-width: 768px) {
