@@ -1,4 +1,4 @@
-@media only screen and (max-width: 430px) {
+@media only screen and (max-width: 355px) {
     .logo1{
         margin-left: 0px;
     }
@@ -185,7 +185,15 @@
     .formimg{
         display: none;
     }
+    .footer{
+        width: Hug (430px)px;
+        height: Hug (945.61px)px;
+        top: 3843px;
+        padding: 50px 0px 30px 0px;
+        gap: 37px;
+        border-radius: 0px;
 
+    }
 
 
 
